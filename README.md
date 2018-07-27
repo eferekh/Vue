@@ -1,2 +1,2 @@
 # Vue
-VueJS (Apps &amp; Tutorials)
+VueJS (Apps, Tutorials, HowTo And Options)
