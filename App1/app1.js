@@ -1,7 +1,7 @@
 let componentOne = {
     data: function () {
         return {
-            users: [],
+            users: [], 
         }
     },
     methods: {
